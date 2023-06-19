@@ -1,5 +1,5 @@
 # Leading-causes-of-deaths-in-US
-The "Analysis of USA Causes of Deaths" project focuses on exploring and visualizing a dataset containing information on the leading causes of deaths in the United States. This project employs a combination of data analysis techniques using Jupyter Notebook, SQL queries for data cleaning, and Microsoft Power BI for data visualization.
+The "Leading Causes of Deaths in US project focuses on exploring and visualizing a dataset containing information on the leading causes of deaths in the United States. This project employs a combination of data analysis techniques using Jupyter Notebook, SQL queries for data cleaning, and Microsoft Power BI for data visualization.
 
 Key Steps:
 
@@ -14,7 +14,7 @@ Key Steps:
 Insights and Presentation: The project culminates in deriving meaningful insights from the data analysis and visualizations. These insights can provide valuable information on the distribution of causes of deaths, trends over time, regional variations, and potential correlations between variables. The findings can be summarized and presented through compelling visualizations and narratives using Microsoft Power BI, enabling effective communication to stakeholders, researchers, or the general public.
 
 
-Download datawet from the link : {here}(https://www.cdc.gov/nchs/data-visualization/mortality-leading-causes/index.htm)
+Download datawet from the link : [here](https://www.cdc.gov/nchs/data-visualization/mortality-leading-causes/index.htm)
 
 
 
