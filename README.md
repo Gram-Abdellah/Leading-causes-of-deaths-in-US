@@ -14,7 +14,7 @@ Key Steps:
 Insights and Presentation: The project culminates in deriving meaningful insights from the data analysis and visualizations. These insights can provide valuable information on the distribution of causes of deaths, trends over time, regional variations, and potential correlations between variables. The findings can be summarized and presented through compelling visualizations and narratives using Microsoft Power BI, enabling effective communication to stakeholders, researchers, or the general public.
 
 
-Download datawet from the link : (here){https://www.cdc.gov/nchs/data-visualization/mortality-leading-causes/index.htm}
+Download datawet from the link : {here}(https://www.cdc.gov/nchs/data-visualization/mortality-leading-causes/index.htm)
 
 
 
